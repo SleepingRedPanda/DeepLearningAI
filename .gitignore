@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Documentation directory
+docs/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class 
